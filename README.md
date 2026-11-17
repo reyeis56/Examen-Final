@@ -1,8 +1,8 @@
 # Tabla de jugadores — React Hooks
 
-Tabla interactiva de jugadores con búsqueda con debounce, paginación, ordenamiento, modo oscuro, favoritos, historial de búsquedas y estadísticas en tiempo real.
+Tabla interactiva de jugadores con búsqueda con debounce, paginación, ordenamiento, modo oscuro, favoritos, historial de búsquedas y estadísticas en tiempo real
 
-**IA utilizada:** Claude (Anthropic) — Ayuda en gran medida a la creacion del codigo.
+**IA utilizada:** Claude (Anthropic) — Ayuda en gran medida a la creacion del codigo
 
 ## Instalación
 
@@ -14,9 +14,9 @@ npm run build    # producción (carpeta dist)
 
 ## Hooks utilizados
 
-- `useState`: búsqueda, página actual, tamaño de página, ordenamiento, modal, favoritos, tema, coloreo de filas.
-- `useEffect`: debounce con cleanup, persistencia en `localStorage` (tema, favoritos, historial) y reinicio de la paginación al filtrar.
-- `useMemo`: filtrado, ordenamiento y estadísticas.
+- `useState`: búsqueda, página actual, tamaño de página, ordenamiento, modal, favoritos, tema, coloreo de filas
+- `useEffect`: debounce con cleanup, persistencia en `localStorage` (tema, favoritos, historial) y reinicio de la paginación al filtrar
+- `useMemo`: filtrado, ordenamiento y estadísticas
 
 ## Estructura
 
