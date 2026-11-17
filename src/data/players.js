@@ -6,7 +6,7 @@ export const PLAYERS = [
   { id: 5, name: 'Felipe Ortiz', position: 'Defensa', age: 31, goals: 1 },
   { id: 6, name: 'Daniel Muñoz', position: 'Defensa', age: 24, goals: 3 },
   { id: 7, name: 'Esteban Parra', position: 'Defensa', age: 28, goals: 0 },
-  { id: 8, name: 'Nicolás Giraldo', position: 'Defensa', age: 23, goals: 1 },
+  { id: 8, name: 'Nicolas Giraldo', position: 'Defensa', age: 23, goals: 1 },
   { id: 9, name: 'Tomás Herrera', position: 'Defensa', age: 30, goals: 4 },
   { id: 10, name: 'Camilo Betancur', position: 'Defensa', age: 27, goals: 2 },
   { id: 11, name: 'Santiago Duque', position: 'Mediocampista', age: 25, goals: 7 },
