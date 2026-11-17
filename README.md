@@ -2,7 +2,7 @@
 
 Tabla interactiva de jugadores con búsqueda con debounce, paginación, ordenamiento, modo oscuro, favoritos, historial de búsquedas y estadísticas en tiempo real.
 
-**IA utilizada:** Claude (Anthropic) — generó el código base del proyecto.
+**IA utilizada:** Claude (Anthropic) — Ayuda en gran medida a la creacion del codigo.
 
 ## Instalación
 
@@ -38,8 +38,27 @@ src/
 
 ## Deploy
 
-_Link de Netlify_
+[_Link de Netlify stately-platypus-95984d.netlify.app_]([https://stately-platypus-95984d.netlify.app](https://stately-platypus-95984d.netlify.app))
 
 ## Capturas
 
-_Agregar capturas de las funcionalidades principales._
+### Primer Vista
+![Vista general](capturas/Captura1.png)
+
+### Segunda Vista
+![Búsqueda](capturas/Captura2.png)
+
+### Paginación
+![Paginación](capturas/Captura3.png)
+
+### Pares
+![Pares](capturas/Captura4.png)
+
+### Modal de detalles
+![Modal](capturas/Captura5.png)
+
+### Impares
+![Impares](capturas/Captura6.png)
+
+### Favoritos e historial
+![Favoritos e historial](capturas/Captura7.png)
