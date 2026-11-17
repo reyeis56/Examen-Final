@@ -2,7 +2,7 @@ export const PLAYERS = [
   { id: 1, name: 'Andrés Rojas', position: 'Portero', age: 29, goals: 0 },
   { id: 2, name: 'Julián Mesa', position: 'Portero', age: 34, goals: 0 },
   { id: 3, name: 'Mateo Salcedo', position: 'Portero', age: 22, goals: 0 },
-  { id: 4, name: 'Sebastián Cano', position: 'Defensa', age: 26, goals: 2 },
+  { id: 4, name: 'Sebastian Cano', position: 'Defensa', age: 26, goals: 2 },
   { id: 5, name: 'Felipe Ortiz', position: 'Defensa', age: 31, goals: 1 },
   { id: 6, name: 'Daniel Muñoz', position: 'Defensa', age: 24, goals: 3 },
   { id: 7, name: 'Esteban Parra', position: 'Defensa', age: 28, goals: 0 },
