@@ -1,6 +1,6 @@
 # APRENDIZAJE — Hooks de React en la tabla de jugadores
 
-**IA utilizada:** Claude (Anthropic). Generó en gran medida el codigo del proyecto y la redacción del proyecto.
+**IA utilizada:** Claude. Generó en gran medida el codigo del proyecto y la redacción del proyecto.
 
 Todos los ejemplos salen de `src/App.jsx` y de los componentes del proyecto.
 
