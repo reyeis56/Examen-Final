@@ -32,7 +32,7 @@ src/
     └── Modal.jsx       ThemeToggle.jsx
 ```
 
-## Integrantes
+## Integrante
 
 - Miguel Ángel Téllez Berrio
 
@@ -40,7 +40,7 @@ src/
 
 [_Link de Netlify stately-platypus-95984d.netlify.app_]([https://stately-platypus-95984d.netlify.app](https://stately-platypus-95984d.netlify.app))
 
-## Capturas
+## Capturas del Proyecto
 
 ### Primer Vista
 ![Vista general](capturas/Captura1.png)
