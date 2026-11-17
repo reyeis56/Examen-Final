@@ -2,12 +2,12 @@ export default function Modal({ isOpen, onClose, player, darkMode }) {
   if (!player) return null;
 
   return (
-    <div className={`modal${isOpen ? ' modal--open' : ''}`} onClick={onClose}>
+    <div className= {`modal${isOpen ? ' modal--open' : ''}`} onClick={onClose}>
       <div
-        className={`modal__card${darkMode ? ' modal__card--dark' : ''}`}
+        className= {`modal__card${darkMode ? ' modal__card--dark' : ''}`}
         onClick={(e) => e.stopPropagation()}
-        role="dialog"
-        aria-modal="true"
+        role= "dialog"
+        aria-modal= "true"
       >
         <button className="modal__close" onClick={onClose} aria-label="Cerrar">✕</button>
         <h2 className="modal__title">{player.name}</h2>
